@@ -1,4 +1,4 @@
-package.path = "../res/?.lua;../res/?/init.lua;" .. package.path
+package.path = "../src/?.lua;../src/?/init.lua;" .. package.path
 
 local Insect = require 'insect'
 
